@@ -1,0 +1,38 @@
+{
+  "services": [
+    {
+      "id": "service1",
+      "title": "service1",
+      "categoryId": "category1",
+      "price": 100.0,
+      "description": "description1",
+      "masterIdList": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "service2",
+      "title": "service2",
+      "categoryId": "category2",
+      "price": 150.0,
+      "description": "description2",
+      "masterIdList": [
+        "4",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "category1",
+      "title": "category1"
+    },
+    {
+      "id": "category2",
+      "title": "category2"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "date": "date1",
+    "seances": [
+      {
+        "startTime": "14:30",
+        "durationInMinutes": "60",
+        "masterIdList": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "durationInMinutes": "60",
+        "masterIdList": [
+          "4",
+          "2",
+          "3"
+        ]
+      }
+    ]
+  },
+
+  {
+    "date": "date2",
+    "seances": [
+      {
+        "startTime": "14:30",
+        "durationInMinutes": "60",
+        "masterIdList": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "durationInMinutes": "60",
+        "masterIdList": [
+          "4",
+          "2",
+          "3"
+        ]
+      }
+    ]
+  }
+]
